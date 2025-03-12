@@ -36,4 +36,3 @@ Le projet est structuré en plusieurs parties principales :
 - Les bibliothèques Python suivantes doivent être installées :
   ```bash
   pip install pandas numpy scikit-learn tensorflow matplotlib
-bash```
